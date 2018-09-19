@@ -1,0 +1,15 @@
+List
+	Reverse a list = listname[::-1] or reversed(listname)
+	You can use .join() mover a list, cant use for loop 
+		Ex: "".join(word)	
+	Use enumerate when you need both index and values
+Dictionary
+	To iterate key value pair ->  for key, value in resultTable.iteritems():
+	you can add a list to value of the key.
+		ex: {1: [0,2], 2:[1,2]
+		
+Array:
+
+
+	
+		

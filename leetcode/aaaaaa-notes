@@ -1,0 +1,22 @@
+#String
+      # check sensitivity of the laters
+      # temp[] should be refreshed for everyword
+      # temp=[] should be before right for looop
+#Using for with a for
+	When : EX[a,b,c]
+		o/p a, ab, abc
+#SampleCode LC219
+			 for index in range(0, len(domainSplit)):
+			 	something
+			 	for index2 in range(index+1, len(domainSplit)):
+			 		 rest of the code
+      
+ #Always try to go for a faster method. A binary search is faster than linear search
+ #Always check for test cases for None, n no of extra spaces
+ 
+ Dictionary:
+ you can do this by dictTemp[keys].append(value)
+	for encode  self.dic[longUrl]=x and for decode you used iteritems() to search for the shortUrl and then returned longUrl. But this increased 
+	complexity to O(N) for decode. You the above code you decresed the complexity to O(1) just by swapping key-pair values in encode.L353
+
+ 
